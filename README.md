@@ -54,3 +54,11 @@ Beneficios da nuvem:
 
 
 sla, tempo que o serviço pode ficar fora, ao criar uma vm pode definir opções de disponibilidade e zonas de disponibilidade que afeta o sla, redundancia também afeta o sla
+
+tipos de serviço de nuvem: iaas, paas e saas
+
+iaas (infraestrutura como serviço): serviços onde o cliente vai ter mais acesso/envolvimento, mais flexível, você configura e gerencia hardware para o seu aplicativo, servidores, armazenamento, firewalls/segurança de rede, planta física/edifício do datacenter, cliente tem mais personalização/liberdade
+
+paas (plataforma como serviço): fornece um ambiente para criação, teste e implantação sem focar no gerenciamento da infraestrutura subjacente, focado no desenvolvimento de aplicativos, gerenciamento da plataforma e feito pelo provedor de nuvem, ferramentas para desenvolvedores, analise de negócios de gerenciamento, banco de dados
+
+saas (software como serviço): usuários se conectam e usam aplicativos com base em nuvem pela internet, usuários pagam pelo software que utilizam um modelo de assinatura, aplicativos/apps hospedados, office 365, email, calendários
